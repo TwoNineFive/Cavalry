@@ -6,7 +6,7 @@ Current Features:
 - 25% dmg buff on horseback
 - 20-50% speed decrease depending on horse armor
 - 10-30% jump decrease depending on horse armor
-- 2 hearts of damage done every 2 seconds to players being trampled
+- 2 hearts of damage done every 2 seconds to simulate players being "trampled"
 
 
 Made as a proof of concept for the Stoneworks Minecraft Server
