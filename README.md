@@ -4,7 +4,7 @@ Semi-functional cavalry datapack for Minecraft Java edition 1.18.2
 
 Current Features:
 - 25% dmg buff on horseback
-- 25-75% speed decrease depending on horse armor
+- 20-50% speed decrease depending on horse armor
 - 10-30% jump decrease depending on horse armor
 - 2 hearts of damage done every 2 seconds to players being trampled
 
