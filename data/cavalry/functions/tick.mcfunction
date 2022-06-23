@@ -1,4 +1,3 @@
-function cavalry:timer
 function cavalry:pvpbuff
 function cavalry:onhorse
 function cavalry:slowhorse-diamond
